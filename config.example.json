@@ -1,0 +1,32 @@
+{
+  "token": "TON_TOKEN_ICI",
+  "clientId": "1519497996079992983",
+  "guildId": "1519314596048011384",
+  "ticketCategoryId": "1519500564159791104",
+  "cuistotRoleId": "1519336671210897538",
+  "adminRoleId": "1519336671210897538",
+  "colorGold": "#FFD700",
+  "colorDark": "#1a1a1a",
+  "paypal": {
+    "link": "https://www.paypal.me/SkyOress",
+    "text": "PayPal amis/proches uniquement.\nNe rien mettre en note sous risque de refus de paiement."
+  },
+  "revolut": {
+    "link": "https://revolut.me/nadegealine",
+    "text": "Revolut uniquement.\nNe rien mettre en note."
+  },
+  "paysafecard": {
+    "text": "Paysafecard uniquement.\nEntre le code de ton ticket Paysafecard dans le formulaire après avoir cliqué sur Ping Admin."
+  },
+  "oxapay": {
+    "apiKey": "TON_API_KEY_OXAPAY",
+    "apiUrl": "https://api.oxapay.com/v1/payment/invoice",
+    "currency": "EUR",
+    "lifetime": 30
+  },
+  "rechargeTicketChannelId": "1519509800931823736",
+  "fondaRoleId": "1519336378742214687",
+  "tempMemberRoleId": "1519721242771329074",
+  "savCategoryId": "1519738644854870108",
+  "savRoleId": "1519738743643177021"
+}
